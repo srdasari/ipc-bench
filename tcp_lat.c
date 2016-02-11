@@ -25,7 +25,6 @@
     FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
     OTHER DEALINGS IN THE SOFTWARE.
 */
-// santhosh reddy
 
 #include <stdio.h>
 #include <stdlib.h>
